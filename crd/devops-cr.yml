@@ -1,0 +1,9 @@
+kind: KubernetesLearningPath
+apiVersion: pranayrokade.in/v1
+metadata:
+  name: Kubernetes-Learning-Path
+spec:
+  name: Kubernetes-Learning-Path
+  duration: 1 month from 29th May 2025
+  platform: pranayrokade.in
+  mode: Self Placed
